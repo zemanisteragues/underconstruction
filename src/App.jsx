@@ -7,10 +7,10 @@ const App = () => {
         <div className="p-4">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">GoodBuild</h1>
           <p className="text-lg text-gray-600 mb-8">Our site is currently under construction. We’ll be here soon with our new awesome site, subscribe to be notified.</p>
-          <div className="mt-4">
+          {/* <div className="mt-4">
             <input type="email" className="w-full p-2 border border-gray-300 rounded-lg" placeholder="Enter your email" />
             <button className="w-full mt-2 p-2 bg-blue-600 text-white rounded-lg">Notify Me</button>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
